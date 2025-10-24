@@ -69,8 +69,8 @@ export default function Home() {
                 <div className="w-12 h-12 bg-primary/20 rounded-lg flex items-center justify-center">
                   <Zap className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-lg font-semibold text-foreground">Smart Opportunities</h3>
-                <p className="text-sm text-muted-foreground">
+                <h3 className="text-lg font-semibold text-white">Smart Opportunities</h3>
+                <p className="text-sm text-muted-foreground font-bold">
                   Find roles that match your skills and interests in the fastest-growing sector of tech.
                 </p>
               </div>
@@ -188,7 +188,7 @@ export default function Home() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="bg-gradient-to-r from-primary/10 to-blue-600/10 border border-primary/20 rounded-2xl p-12 md:p-16 text-center space-y-6">
           <h2 className="text-4xl font-bold text-foreground">Ready to Join Web3?</h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-white max-w-2xl mx-auto">
             Start your journey in decentralized technology today. Browse thousands of opportunities from the best
             companies in the ecosystem.
           </p>
